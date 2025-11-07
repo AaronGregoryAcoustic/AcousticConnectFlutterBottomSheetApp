@@ -86,7 +86,7 @@ The app integrates **connect_flutter_plugin v2.36.3-beta** for session replay an
 ### 1. Install Dependencies
 
 ```bash
-cd /path/to/BancoBankFlutterApp
+cd /path/to/AcousticConnectFlutterBottomSheetApp-main
 flutter pub get
 ```
 
