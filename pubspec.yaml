@@ -1,0 +1,24 @@
+name: bancobank_flutter_app
+description: A sample Flutter app to recreate BancoBank widget behaviorflutter channel stable
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  connect_flutter_plugin: ^2.36.5-beta
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
